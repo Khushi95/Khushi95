@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **ShopNest**
 
-- 🌱 I’m currently learning **Core Java, Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **khushi952003@gmail.com**
 
